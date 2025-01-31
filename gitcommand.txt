@@ -5,3 +5,7 @@ git commin -m "meesage": from staging area to local repository
 
 git config --global user.name "username"
 git config --global user.email "email"
+
+git branch
+
+git checkout
